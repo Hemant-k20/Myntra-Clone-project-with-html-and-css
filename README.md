@@ -1,1 +1,1 @@
-# Myntra-Clone-project-with-html-and-css
+# Myntra-Clone-project
