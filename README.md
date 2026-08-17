@@ -1,2 +1,2 @@
 # Myntra-Clone-project 
-with html and css
+with html css and JavaScript 
