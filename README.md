@@ -1,2 +1,2 @@
-# Myntra-Clone-project full
+# Myntra-Clone-project 
 
